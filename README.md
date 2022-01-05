@@ -1,7 +1,7 @@
 # VAEBMs
 
 ### Update (06-Dec-2021)
-The official implementation (released recently) can be found here : [NVLabs/VAEBM](https://github.com/NVlabs/VAEBM)
+The official implementation can be found here : [NVLabs/VAEBM](https://github.com/NVlabs/VAEBM)
 
 ## Introduction
 Repository for CS698X course project (Topics in Probabilistic Modeling and Inference, Winter 2021, IIT Kanpur), on energy-based VAEs. Contains (unofficial) implementation of VAEBM [1] for Vanilla VAE, beta-TCVAE and Factor-VAE for MNIST, CelebA-64 and Chairs dataset. 
